@@ -2,6 +2,7 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
 
 ## Elementary
 1. Write a program that prints ‘Hello World’ to the screen.
+    - [Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-1.js)
 1. Write a program that asks the user for their name and greets them with their name.
 1. Modify the previous program such that only the users Alice and Bob are greeted with their names.
 1. Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
