@@ -6,4 +6,4 @@ function printHello() {
 }
 
 // ES6
-let printHello = () => console.log("Hello World");
+let printHello2 = () => console.log("Hello World");
