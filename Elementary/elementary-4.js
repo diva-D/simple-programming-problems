@@ -2,7 +2,9 @@
 
 let printNumbers = () => {
     let userNumber = prompt("Enter a number");
+    let sum = 0;
     for (let i = 1; i <= userNumber; i++) {
-        console.log(i);
+        sum += i;
     }
+    return sum;
 };

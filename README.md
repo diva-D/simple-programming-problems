@@ -8,6 +8,7 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
 1. Modify the previous program such that only the users Alice and Bob are greeted with their names.
     - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-3.js)
 1. Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-4.js)
 1. Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
 1. Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
 1. Write a program that prints a multiplication table for numbers up to 12.
