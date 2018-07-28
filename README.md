@@ -2,14 +2,15 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
 
 ## Elementary
 1. Write a program that prints ‘Hello World’ to the screen.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-1.js)
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-01.js)
 1. Write a program that asks the user for their name and greets them with their name.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-2.js)
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-02.js)
 1. Modify the previous program such that only the users Alice and Bob are greeted with their names.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-3.js)
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-03.js)
 1. Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-4.js)
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-04.js)
 1. Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-05.js)
 1. Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
 1. Write a program that prints a multiplication table for numbers up to 12.
 1. Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
