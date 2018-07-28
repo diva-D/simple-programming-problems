@@ -1,0 +1,8 @@
+// Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
+
+let printNumbers = () => {
+    let userNumber = prompt("Enter a number");
+    for (let i = 1; i <= userNumber; i++) {
+        console.log(i);
+    }
+};
