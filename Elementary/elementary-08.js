@@ -24,4 +24,3 @@ function allPrimeNumbers(limit) {
     console.log(primeList);
     return primeList;
 }
-allPrimeNumbers(200);
