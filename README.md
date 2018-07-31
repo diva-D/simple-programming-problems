@@ -16,6 +16,7 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
 1. Write a program that prints a multiplication table for numbers up to 12.
     - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-07.js)
 1. Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-08.js)
 1. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
     - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-09.js)
 1. Write a program that prints the next 20 leap years.
