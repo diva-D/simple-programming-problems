@@ -2,23 +2,23 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
 
 ## Elementary
 1. Write a program that prints ‘Hello World’ to the screen.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-01.js)
+    - [JavaScript Solution](Elementary/elementary-01.js)
 1. Write a program that asks the user for their name and greets them with their name.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-02.js)
+    - [JavaScript Solution](Elementary/elementary-02.js)
 1. Modify the previous program such that only the users Alice and Bob are greeted with their names.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-03.js)
+    - [JavaScript Solution](Elementary/elementary-03.js)
 1. Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-04.js)
+    - [JavaScript Solution](Elementary/elementary-04.js)
 1. Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-05.js)
+    - [JavaScript Solution](Elementary/elementary-05.js)
 1. Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-06.js)
+    - [JavaScript Solution](Elementary/elementary-06.js)
 1. Write a program that prints a multiplication table for numbers up to 12.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-07.js)
+    - [JavaScript Solution](Elementary/elementary-07.js)
 1. Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-08.js)
+    - [JavaScript Solution](Elementary/elementary-08.js)
 1. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Elementary/elementary-09.js)
+    - [JavaScript Solution](Elementary/elementary-09.js)
 1. Write a program that prints the next 20 leap years.
 1. Write a program that computes
     - ![`4\cdot \sum_{k=1}^{10^6} \frac{(-1)^{k+1}}{2k-1} = 4\cdot(1-1/3+1/5-1/7+1/9-1/11\ldots).`](Elementary/Elementary11_latex.gif)
@@ -26,24 +26,41 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
 ## Lists, Strings
 If your language of choice doesn’t have a build in list and/or string type (e.g. you use C), these exercises should also be solvable for arrays. However, some solutions are very different between an array-based list (like C++’s vector) and a pointer based list (like C++’s list), at least if you care about the efficiency of your code. So you might want to either find a library, or investigate how to implement your own linked list if your language doesn’t have it.
 1. Write a function that returns the largest element in a list.
-    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Lists-Strings/LS-01.js)
+    - [JavaScript Solution](Lists-Strings/LS-01.js)
 1. Write function that reverses a list, preferably in place.
+    - [JavaScript Solution](Lists-Strings/LS-02.js)
 1. Write a function that checks whether an element occurs in a list.
+    - [JavaScript Solution](Lists-Strings/LS-03.js)
 1. Write a function that returns the elements on odd positions in a list.
+    - [JavaScript Solution](Lists-Strings/LS-04.js)
 1. Write a function that computes the running total of a list.
+    - [JavaScript Solution](Lists-Strings/LS-05.js)
 1. Write a function that tests whether a string is a palindrome.
+    - [JavaScript Solution](Lists-Strings/LS-06.js)
 1. Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
+    - [JavaScript Solution](Lists-Strings/LS-07.js)
 1. Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares (a natural number n is a perfect square if it can be written as n=m*m for some other natural number m. 1,4,9,16,25 are the first 5).
+    - [JavaScript Solution](Lists-Strings/LS-08.js)
 1. Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
+    - [JavaScript Solution](Lists-Strings/LS-09.js)
 1. Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
+    - [JavaScript Solution](Lists-Strings/LS-10.js)
 1. Write a function that merges two sorted lists into a new sorted list. [1,4,6],[2,3,5] → [1,2,3,4,5,6]. You can do this quicker than concatenating them followed by a sort.
+    - [JavaScript Solution](Lists-Strings/LS-11.js)
 1. Write a function that rotates a list by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
+    - [JavaScript Solution](Lists-Strings/LS-12.js)
 1. Write a function that computes the list of the first 100 Fibonacci numbers.
+    - [JavaScript Solution](Lists-Strings/LS-13.js)
 1. Write a function that takes a number and returns a list of its digits.
+    - [JavaScript Solution](Lists-Strings/LS-14.js)
 1. Write functions that add, subtract, and multiply two numbers in their digit-list representation (and return a new digit list). If you’re ambitious you can implement Karatsuba multiplication. Try [different bases](https://en.wikipedia.org/wiki/Radix). What is the best base if you care about speed? If you couldn’t completely solve the prime number exercise above due to the lack of large numbers in your language, you can now use your own library for this task.
+    - [JavaScript Solution](Lists-Strings/LS-15.js)
 1. Write a function that takes a list of numbers, a starting base b1 and a target base b2 and interprets the list as a number in base b1 and converts it into a number in base b2 (in the form of a list-of-digits).
+    - [JavaScript Solution](Lists-Strings/LS-16.js)
 1. Implement the following sorting algorithms: Selection sort, Insertion sort, Merge sort, Quick sort, Stooge Sort. Check Wikipedia for descriptions.
+    - [JavaScript Solution](Lists-Strings/LS-17.js)
 1. Implement binary search.
+    - [JavaScript Solution](Lists-Strings/LS-18.js)
 1. Write a function that takes a list of strings an prints them, one per line, in a rectangular frame. For example the list ["Hello", "World", "in", "a", "frame"] gets printed as:
     ```
     *********  
@@ -54,7 +71,9 @@ If your language of choice doesn’t have a build in list and/or string type (e.
     * frame *  
     *********
     ```
+    - [JavaScript Solution](Lists-Strings/LS-19.js)
 1. Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
+    - [JavaScript Solution](Lists-Strings/LS-20.js)
 
 ## Intermediate
 1. Write a program that outputs all possibilities to put + or - or nothing between the numbers 1,2,…,9 (in this order) such that the result is 100. For example 1 + 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100.
