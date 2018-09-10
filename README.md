@@ -36,9 +36,9 @@ If your language of choice doesn’t have a build in list and/or string type (e.
 1. Write a function that computes the running total of a list.
     - [JavaScript Solution](Lists-Strings/LS-05.js)
 1. Write a function that tests whether a string is a palindrome.
-    - [JavaScript Solution](Lists-Strings/LS-06.js)
+    - X[JavaScript Solution](Lists-Strings/LS-06.js)
 1. Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
-    - [JavaScript Solution](Lists-Strings/LS-07.js)
+    - X[JavaScript Solution](Lists-Strings/LS-07.js)
 1. Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares (a natural number n is a perfect square if it can be written as n=m*m for some other natural number m. 1,4,9,16,25 are the first 5).
     - [JavaScript Solution](Lists-Strings/LS-08.js)
 1. Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
