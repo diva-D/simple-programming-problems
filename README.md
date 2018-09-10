@@ -32,7 +32,7 @@ If your language of choice doesn’t have a build in list and/or string type (e.
 1. Write a function that checks whether an element occurs in a list.
     - X[JavaScript Solution](Lists-Strings/LS-03.js)
 1. Write a function that returns the elements on odd positions in a list.
-    - [JavaScript Solution](Lists-Strings/LS-04.js)
+    - X[JavaScript Solution](Lists-Strings/LS-04.js)
 1. Write a function that computes the running total of a list.
     - [JavaScript Solution](Lists-Strings/LS-05.js)
 1. Write a function that tests whether a string is a palindrome.
