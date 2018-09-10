@@ -40,7 +40,7 @@ If your language of choice doesn’t have a build in list and/or string type (e.
 1. Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
     - X[JavaScript Solution](Lists-Strings/LS-07.js)
 1. Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares (a natural number n is a perfect square if it can be written as n=m*m for some other natural number m. 1,4,9,16,25 are the first 5).
-    - [JavaScript Solution](Lists-Strings/LS-08.js)
+    - X[JavaScript Solution](Lists-Strings/LS-08.js)
 1. Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
     - [JavaScript Solution](Lists-Strings/LS-09.js)
 1. Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
