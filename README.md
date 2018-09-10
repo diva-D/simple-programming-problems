@@ -26,11 +26,11 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
 ## Lists, Strings
 If your language of choice doesn’t have a build in list and/or string type (e.g. you use C), these exercises should also be solvable for arrays. However, some solutions are very different between an array-based list (like C++’s vector) and a pointer based list (like C++’s list), at least if you care about the efficiency of your code. So you might want to either find a library, or investigate how to implement your own linked list if your language doesn’t have it.
 1. Write a function that returns the largest element in a list.
-    - [JavaScript Solution](Lists-Strings/LS-01.js)
+    - X[JavaScript Solution](Lists-Strings/LS-01.js)
 1. Write function that reverses a list, preferably in place.
-    - [JavaScript Solution](Lists-Strings/LS-02.js)
+    - X[JavaScript Solution](Lists-Strings/LS-02.js)
 1. Write a function that checks whether an element occurs in a list.
-    - [JavaScript Solution](Lists-Strings/LS-03.js)
+    - X[JavaScript Solution](Lists-Strings/LS-03.js)
 1. Write a function that returns the elements on odd positions in a list.
     - [JavaScript Solution](Lists-Strings/LS-04.js)
 1. Write a function that computes the running total of a list.
