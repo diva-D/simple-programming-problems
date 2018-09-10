@@ -24,8 +24,9 @@ Problems come from [Adrian Neumann's website](https://adriann.github.io/programm
     - ![`4\cdot \sum_{k=1}^{10^6} \frac{(-1)^{k+1}}{2k-1} = 4\cdot(1-1/3+1/5-1/7+1/9-1/11\ldots).`](Elementary/Elementary11_latex.gif)
 
 ## Lists, Strings
-1. If your language of choice doesn’t have a build in list and/or string type (e.g. you use C), these exercises should also be solvable for arrays. However, some solutions are very different between an array-based list (like C++’s vector) and a pointer based list (like C++’s list), at least if you care about the efficiency of your code. So you might want to either find a library, or investigate how to implement your own linked list if your language doesn’t have it.
+If your language of choice doesn’t have a build in list and/or string type (e.g. you use C), these exercises should also be solvable for arrays. However, some solutions are very different between an array-based list (like C++’s vector) and a pointer based list (like C++’s list), at least if you care about the efficiency of your code. So you might want to either find a library, or investigate how to implement your own linked list if your language doesn’t have it.
 1. Write a function that returns the largest element in a list.
+    - [JavaScript Solution](https://github.com/diva-D/simple-programming-problems/blob/master/Lists-Strings/LS-01.js)
 1. Write function that reverses a list, preferably in place.
 1. Write a function that checks whether an element occurs in a list.
 1. Write a function that returns the elements on odd positions in a list.
