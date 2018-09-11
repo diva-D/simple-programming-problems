@@ -52,7 +52,7 @@ If your language of choice doesn’t have a build in list and/or string type (e.
 1. Write a function that computes the list of the first 100 Fibonacci numbers.
     - X[JavaScript Solution](Lists-Strings/LS-13.js)
 1. Write a function that takes a number and returns a list of its digits.
-    - [JavaScript Solution](Lists-Strings/LS-14.js)
+    - X[JavaScript Solution](Lists-Strings/LS-14.js)
 1. Write functions that add, subtract, and multiply two numbers in their digit-list representation (and return a new digit list). If you’re ambitious you can implement Karatsuba multiplication. Try [different bases](https://en.wikipedia.org/wiki/Radix). What is the best base if you care about speed? If you couldn’t completely solve the prime number exercise above due to the lack of large numbers in your language, you can now use your own library for this task.
     - [JavaScript Solution](Lists-Strings/LS-15.js)
 1. Write a function that takes a list of numbers, a starting base b1 and a target base b2 and interprets the list as a number in base b1 and converts it into a number in base b2 (in the form of a list-of-digits).
