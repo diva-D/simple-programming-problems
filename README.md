@@ -44,9 +44,9 @@ If your language of choice doesn’t have a build in list and/or string type (e.
 1. Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
     - X[JavaScript Solution](Lists-Strings/LS-09.js)
 1. Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
-    - [JavaScript Solution](Lists-Strings/LS-10.js)
+    - X[JavaScript Solution](Lists-Strings/LS-10.js)
 1. Write a function that merges two sorted lists into a new sorted list. [1,4,6],[2,3,5] → [1,2,3,4,5,6]. You can do this quicker than concatenating them followed by a sort.
-    - [JavaScript Solution](Lists-Strings/LS-11.js)
+    - X[JavaScript Solution](Lists-Strings/LS-11.js)
 1. Write a function that rotates a list by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
     - [JavaScript Solution](Lists-Strings/LS-12.js)
 1. Write a function that computes the list of the first 100 Fibonacci numbers.
