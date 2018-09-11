@@ -71,7 +71,7 @@ If your language of choice doesn’t have a build in list and/or string type (e.
     * frame *  
     *********
     ```
-    - [JavaScript Solution](Lists-Strings/LS-19.js)
+    - X[JavaScript Solution](Lists-Strings/LS-19.js)
 1. Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
     - [JavaScript Solution](Lists-Strings/LS-20.js)
 
