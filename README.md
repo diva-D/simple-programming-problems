@@ -50,7 +50,7 @@ If your language of choice doesn’t have a build in list and/or string type (e.
 1. Write a function that rotates a list by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
     - [JavaScript Solution](Lists-Strings/LS-12.js)
 1. Write a function that computes the list of the first 100 Fibonacci numbers.
-    - [JavaScript Solution](Lists-Strings/LS-13.js)
+    - X[JavaScript Solution](Lists-Strings/LS-13.js)
 1. Write a function that takes a number and returns a list of its digits.
     - [JavaScript Solution](Lists-Strings/LS-14.js)
 1. Write functions that add, subtract, and multiply two numbers in their digit-list representation (and return a new digit list). If you’re ambitious you can implement Karatsuba multiplication. Try [different bases](https://en.wikipedia.org/wiki/Radix). What is the best base if you care about speed? If you couldn’t completely solve the prime number exercise above due to the lack of large numbers in your language, you can now use your own library for this task.
